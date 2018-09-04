@@ -1,0 +1,26 @@
+{
+  "name": "async-javascript",
+  "version": "1.0.0",
+  "description": "Asyncronous JavaScript Sample",
+  "main": "callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lethisa/async-javascript-sample.git"
+  },
+  "keywords": [
+    "async",
+    "javascript"
+  ],
+  "author": "Lethisa Putri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lethisa/async-javascript-sample/issues"
+  },
+  "homepage": "https://github.com/lethisa/async-javascript-sample#readme",
+  "dependencies": {
+    "eslint": "^5.5.0"
+  }
+}
